@@ -1,2 +1,2 @@
 # RShiny
-RShiny app to visualize clinical trials data
+RShiny app to visualize clinical trial data
